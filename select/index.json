@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "真夜中のギター",
+  "base_artist": "千賀かほる",
+  "createdAt": "2025-12-14T10:43:15.697988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真夜中のギター",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/01_真夜中のギター_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真夜中のギター",
+      "artist": "島谷ひとみ",
+      "has_synced": true,
+      "path": "select/02_真夜中のギター_島谷ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真夜中のギター",
+      "artist": "千賀かほる",
+      "has_synced": false,
+      "path": "select/03_真夜中のギター_千賀かほる.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真夜中のギター",
+      "artist": "千賀かほる",
+      "has_synced": true,
+      "path": "select/04_真夜中のギター_千賀かほる.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "真夜中のギター",
+      "artist": "Hitomi Shimatani",
+      "has_synced": true,
+      "path": "select/05_真夜中のギター_Hitomi_Shimatani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "真夜中のギター",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": false,
+      "path": "select/06_真夜中のギター_Hideaki_Tokunaga.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夜中のギター",
+      "artist": "千賀かほる",
+      "has_synced": false,
+      "path": "select/pl_01_真夜中のギター_千賀かほる.txt"
+    }
+  ]
+}
